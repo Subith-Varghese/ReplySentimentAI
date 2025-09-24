@@ -1,0 +1,11 @@
+numpy
+pandas
+seaborn
+matplotlib
+contractions
+scikit-learn
+datasets
+transformers
+torch
+accelerate
+flask
